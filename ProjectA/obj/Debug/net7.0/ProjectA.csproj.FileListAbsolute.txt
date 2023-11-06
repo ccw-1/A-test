@@ -1,0 +1,14 @@
+C:\Users\willf\source\repos\Avocado-Waffle\ProjectA\bin\Debug\net7.0\ProjectA.exe
+C:\Users\willf\source\repos\Avocado-Waffle\ProjectA\bin\Debug\net7.0\ProjectA.deps.json
+C:\Users\willf\source\repos\Avocado-Waffle\ProjectA\bin\Debug\net7.0\ProjectA.runtimeconfig.json
+C:\Users\willf\source\repos\Avocado-Waffle\ProjectA\bin\Debug\net7.0\ProjectA.dll
+C:\Users\willf\source\repos\Avocado-Waffle\ProjectA\bin\Debug\net7.0\ProjectA.pdb
+C:\Users\willf\source\repos\Avocado-Waffle\ProjectA\obj\Debug\net7.0\ProjectA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willf\source\repos\Avocado-Waffle\ProjectA\obj\Debug\net7.0\ProjectA.AssemblyInfoInputs.cache
+C:\Users\willf\source\repos\Avocado-Waffle\ProjectA\obj\Debug\net7.0\ProjectA.AssemblyInfo.cs
+C:\Users\willf\source\repos\Avocado-Waffle\ProjectA\obj\Debug\net7.0\ProjectA.csproj.CoreCompileInputs.cache
+C:\Users\willf\source\repos\Avocado-Waffle\ProjectA\obj\Debug\net7.0\ProjectA.dll
+C:\Users\willf\source\repos\Avocado-Waffle\ProjectA\obj\Debug\net7.0\refint\ProjectA.dll
+C:\Users\willf\source\repos\Avocado-Waffle\ProjectA\obj\Debug\net7.0\ProjectA.pdb
+C:\Users\willf\source\repos\Avocado-Waffle\ProjectA\obj\Debug\net7.0\ProjectA.genruntimeconfig.cache
+C:\Users\willf\source\repos\Avocado-Waffle\ProjectA\obj\Debug\net7.0\ref\ProjectA.dll
