@@ -1,0 +1,7 @@
+C:\Users\willf\source\repos\Avocado-Waffle\AvocadoService\bin\Debug\AvocadoService.exe.config
+C:\Users\willf\source\repos\Avocado-Waffle\AvocadoService\bin\Debug\AvocadoService.exe
+C:\Users\willf\source\repos\Avocado-Waffle\AvocadoService\bin\Debug\AvocadoService.pdb
+C:\Users\willf\source\repos\Avocado-Waffle\AvocadoService\obj\Debug\AvocadoService.csproj.AssemblyReference.cache
+C:\Users\willf\source\repos\Avocado-Waffle\AvocadoService\obj\Debug\AvocadoService.csproj.CoreCompileInputs.cache
+C:\Users\willf\source\repos\Avocado-Waffle\AvocadoService\obj\Debug\AvocadoService.exe
+C:\Users\willf\source\repos\Avocado-Waffle\AvocadoService\obj\Debug\AvocadoService.pdb
